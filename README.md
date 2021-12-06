@@ -63,7 +63,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Firebase Docs](https://reactrouter.com/docs/en/v6) - This is a great documentation to get started with React Router
+- [React Router](https://reactrouter.com/docs/en/v6) - This is a great documentation to get started with React Router
 
 ## Author
 
